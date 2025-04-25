@@ -10,7 +10,7 @@
 </div>
 
 ###
-
+<h2 align = "left">Techs</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -24,9 +24,6 @@
 ###
 
 <h2 align="left">Social Media</h2>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/cassio-cavallaro-ferro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
